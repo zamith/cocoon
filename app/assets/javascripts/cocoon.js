@@ -1,4 +1,4 @@
-(function($) {
+document.addEventListener("DOMContentLoaded", function() {
 
   var cocoon_element_counter = 0;
 
@@ -109,6 +109,6 @@
     });
   });
 
-})(jQuery);
+});
 
 
